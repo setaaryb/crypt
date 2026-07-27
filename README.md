@@ -20,7 +20,7 @@ Simple Python encoder yang menggunakan beberapa layer encoding seperti **Marshal
 git clone https://github.com/setaaryb/crypt.git
 cd crypt
 pip install rich
-python index.py
+python main.py
 ```
 
 ## Usage
